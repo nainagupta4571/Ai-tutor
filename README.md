@@ -44,13 +44,13 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
 
 ## ⚙️ Setup Instructions
 
-1. **Clone the Repo**
+1. Clone the Repo
    ```bash
    git clone https://github.com/your-username/ai-learning-assistant.git
    cd ai-learning-assistant
 ````
 
-2. **Generate an API Key**
+2. Generate an API Key
 
    * Go to [https://openrouter.ai/keys](https://openrouter.ai/keys)
    * Create your free API key
@@ -60,7 +60,7 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
      Authorization: "Bearer sk-YourKeyHere"
      ```
 
-3. **Open the App**
+3. Open the App
    Just open `index.html` in your browser — no build tools needed.
 
 ---
