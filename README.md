@@ -46,7 +46,7 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
 
 1. Clone the Repo
    ```bash
-   git clone https://github.com/your-username/ai-learning-assistant.git
+   git clone https://github.com/nainagupta4571/Ai-tutor.git
    cd ai-learning-assistant
 ````
 
