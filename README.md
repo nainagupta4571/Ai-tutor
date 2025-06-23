@@ -2,7 +2,7 @@
 
 An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScript, and OpenRouter API. It helps users learn concepts, ask questions, and even switch between **Tutor Mode** and **Quiz Mode**. Responsive and mobile-friendly – works seamlessly across desktops, tablets, and smartphones.
 
-![AI Learning Assistant Screenshot](a.png)(b.png) <!-- Add your own image here -->
+![AI Learning Assistant Screenshot](a.png) <!-- Add your own image here -->
 
 ---
 
