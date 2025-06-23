@@ -1,8 +1,6 @@
-![image](https://github.com/user-attachments/assets/ca8734c9-2880-4547-be55-57ead8934920)# 📚 AI Learning Assistant
+# 📚 AI Learning Assistant
 
 An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScript, and OpenRouter API. It helps users learn concepts, ask questions, and even switch between **Tutor Mode** and **Quiz Mode**. Responsive and mobile-friendly – works seamlessly across desktops, tablets, and smartphones.
-
-![AI Learning Assistant Screenshot] <!-- Add your own image here -->
 
 ---
 
@@ -16,6 +14,8 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
 - 🎨 **Clean UI** — Smooth animations and modern design.
 
 ---
+
+![AI Learning Assistant Screenshot] (a.png)(b.png) <!-- Add your own image here -->
 
 ## 📸 Demo
 
