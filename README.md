@@ -18,12 +18,12 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
 ## 📸 Demo
 
 ### 🎬 Video Preview
-<video src="assets/demo.mp4" controls width="600"></video>
+
+[![Watch Demo Video]<video src="assets/demo.mp4" controls width="600"></video>
 
 ### 🖼️ Screenshot
 
 ![App Screenshot](assets/a.png)
-
 
 ![Dark Mode](assets/b.png)
 
