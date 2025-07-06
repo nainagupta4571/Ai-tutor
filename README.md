@@ -85,7 +85,8 @@ ai-learning-assistant/
 ├── script.js
 ├── README.md
 └── assets/
-    ├── preview.png
+    ├── a.png
+    ├── b.png
     └── demo.mp4
 ```
 
