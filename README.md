@@ -17,6 +17,8 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
 
 ## 📸 Demo
 
+👉 [Live Demo:] (https://ai-tutor-hazel-five.vercel.app/)
+
 ### 🎬 Video Preview
 🎥 [Watch Demo Video](https://github.com/user-attachments/assets/3a5009ff-7256-4a50-86b4-1157b169946b)
 
