@@ -23,6 +23,8 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
 ### 🖼️ Screenshot
 
 ![App Screenshot](assets/a.png)
+
+
 ![Dark Mode](assets/b.png)
 
 <!-- Hiding the live link below, so it's not visible publicly -->
