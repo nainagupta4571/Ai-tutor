@@ -17,7 +17,23 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
 
 ## 📸 Demo
 
-👉 [Live Demo:] (https://ai-tutor-hazel-five.vercel.app/)
+### 🎬 Video Preview
+
+<!-- Replace the src with your actual video file or YouTube embed link -->
+<video src="assets/demo.mp4" controls width="600"></video>
+
+<!-- OR embed YouTube like this:
+
+[![Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+
+-->
+
+### 🖼️ Screenshot
+
+![App Screenshot](assets/preview.png)
+
+<!-- Hiding the live link below, so it's not visible publicly -->
+<!-- 👉 [Live Demo](https://ai-tutor-hazel-five.vercel.app/) -->
 
 ---
 
@@ -33,8 +49,8 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
 
 ## 🧠 Modes
 
-| Mode         | Description |
-|--------------|-------------|
+| Mode         | Description                        |
+|--------------|------------------------------------|
 | 🧠 Tutor Mode | Ask general educational questions |
 | 📝 Quiz Mode  | Get 5-question MCQ quiz on any topic |
 
@@ -72,7 +88,8 @@ ai-learning-assistant/
 ├── script.js
 ├── README.md
 └── assets/
-    └── preview.png (optional screenshot)
+    ├── preview.png
+    └── demo.mp4
 ```
 
 ---
@@ -106,4 +123,6 @@ This project is open source under the [MIT License](LICENSE).
 ---
 
 > Made with ❤️ to make learning more accessible.
+
+```
 
