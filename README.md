@@ -68,7 +68,7 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
    * Replace the API key inside `script.js`:
 
      ```js
-     Authorization: "Bearer sk-YourKeyHere"
+     Authorization: "Bearer API_Your_Key_Here"
      ```
 
 3. Open the App
