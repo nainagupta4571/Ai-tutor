@@ -18,7 +18,7 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
 ## 📸 Demo
 
 ### 🎬 Video Preview
-🎥 [Watch Demo Video](https://raw.githubusercontent.com/nainagupta4571/Ai-tutor/master/assets/demo.mp4)
+🎥 [Watch Demo Video](https://github.com/user-attachments/assets/3a5009ff-7256-4a50-86b4-1157b169946b)
 
 ### 🖼️ Screenshot
 
