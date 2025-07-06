@@ -22,15 +22,9 @@ An intelligent and interactive AI-powered tutor built using HTML, CSS, JavaScrip
 <!-- Replace the src with your actual video file or YouTube embed link -->
 <video src="assets/demo.mp4" controls width="600"></video>
 
-<!-- OR embed YouTube like this:
-
-[![Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
-
--->
-
 ### 🖼️ Screenshot
 
-![App Screenshot](assets/preview.png)
+![App Screenshot](assets/a.png)(assets/b.png)
 
 <!-- Hiding the live link below, so it's not visible publicly -->
 <!-- 👉 [Live Demo](https://ai-tutor-hazel-five.vercel.app/) -->
